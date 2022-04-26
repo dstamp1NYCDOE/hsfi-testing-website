@@ -1,11 +1,8 @@
-# Obsidian Notes
+# HSFI Testing Office Website
+Welcome to HSFI's Testing Office Website
 
-Publish your public notes with MkDocs
+Find information here about 
+1. Regents Administrations
+2. PSAT/SAT
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[[June 2022|June 2022 Regents Administration]]
